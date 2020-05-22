@@ -16,7 +16,6 @@ of poeple in Italy form specific provinces. We can derive inferences from this d
 Network Providers are out target audience.
 
 ### :pushpin: Step 3
-> Outline your learning/teaching structure: 
 - Goals:
   - Learn about libraries
   - Learn to perform transformations on the data
